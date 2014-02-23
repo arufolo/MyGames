@@ -1,0 +1,5 @@
+<../images/__CorrogateShiny_1.jpg> <../images/__CorrogateShiny_1.jpg>
+<../images/__CorrogateShiny_12.jpg> <../images/__CorrogateShiny_12.jpg>
+<../images/__CorrogateShiny_1_1noCulling.jpg> <../images/__CorrogateShiny_1_1noCulling.jpg>
+<../images/__CorrogateShiny_2noCulling.jpg> <../images/__CorrogateShiny_2noCulling.jpg>
+<../images/__CorrogateShiny_noCulling.jpg> <../images/__CorrogateShiny_noCulling.jpg>

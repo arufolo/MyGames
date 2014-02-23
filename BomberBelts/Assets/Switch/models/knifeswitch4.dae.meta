@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 59f550ac1a71db94882d12b10294c80e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Flat_Head_Screw
+    100004: Flat_Head_Screw 1
+    100006: Flat_Head_Screw 10
+    100008: Flat_Head_Screw 11
+    100010: Flat_Head_Screw 12
+    100012: Flat_Head_Screw 13
+    100014: Flat_Head_Screw 14
+    100016: Flat_Head_Screw 15
+    100018: Flat_Head_Screw 2
+    100020: Flat_Head_Screw 3
+    100022: Flat_Head_Screw 4
+    100024: Flat_Head_Screw 5
+    100026: Flat_Head_Screw 6
+    100028: Flat_Head_Screw 7
+    100030: Flat_Head_Screw 8
+    100032: Flat_Head_Screw 9
+    100034: Flat_Head_Screw1
+    100036: Flat_Head_Screw1 1
+    100038: Flat_Head_Screw2
+    100040: Flat_Head_Screw2 1
+    100042: Flat_Head_Screw3
+    100044: Flat_Head_Screw3 1
+    100046: Flat_Head_Screw4
+    100048: Flat_Head_Screw4 1
+    100050: Flat_Head_Screw5
+    100052: Flat_Head_Screw5 1
+    100054: Flat_Head_Screw6
+    100056: Flat_Head_Screw6 1
+    100058: Flat_Head_Screw7
+    100060: Flat_Head_Screw7 1
+    100062: Flat_Head_Screw8
+    100064: Flat_Head_Screw8 1
+    100066: Group1
+    100068: Group2
+    100070: Handle
+    100072: Handle1
+    100074: //RootNode
+    100076: mesh1
+    100078: mesh1 1
+    100080: mesh1 10
+    100082: mesh1 11
+    100084: mesh1 12
+    100086: mesh1 13
+    100088: mesh1 14
+    100090: mesh1 15
+    100092: mesh1 2
+    100094: mesh1 3
+    100096: mesh1 4
+    100098: mesh1 5
+    100100: mesh1 6
+    100102: mesh1 7
+    100104: mesh1 8
+    100106: mesh1 9
+    100108: mesh2
+    100110: mesh2 1
+    100112: mesh3
+    100114: mesh3 1
+    100116: mesh4
+    100118: mesh4 1
+    100120: mesh5
+    100122: mesh6
+    100124: mesh7
+    100126: mesh8
+    100128: Model
+    100130: Pole
+    100132: Pole 1
+    100134: Pole1
+    100136: Pole2
+    100138: Switchbase
+    100140: Switchbase 1
+    100142: Switchbase1
+    100144: Switchbase2
+    100146: Throw
+    100148: Throw 1
+    100150: Throw1
+    100152: Throw2
+    400000: Camera
+    400002: Flat_Head_Screw
+    400004: Flat_Head_Screw 1
+    400006: Flat_Head_Screw 10
+    400008: Flat_Head_Screw 11
+    400010: Flat_Head_Screw 12
+    400012: Flat_Head_Screw 13
+    400014: Flat_Head_Screw 14
+    400016: Flat_Head_Screw 15
+    400018: Flat_Head_Screw 2
+    400020: Flat_Head_Screw 3
+    400022: Flat_Head_Screw 4
+    400024: Flat_Head_Screw 5
+    400026: Flat_Head_Screw 6
+    400028: Flat_Head_Screw 7
+    400030: Flat_Head_Screw 8
+    400032: Flat_Head_Screw 9
+    400034: Flat_Head_Screw1
+    400036: Flat_Head_Screw1 1
+    400038: Flat_Head_Screw2
+    400040: Flat_Head_Screw2 1
+    400042: Flat_Head_Screw3
+    400044: Flat_Head_Screw3 1
+    400046: Flat_Head_Screw4
+    400048: Flat_Head_Screw4 1
+    400050: Flat_Head_Screw5
+    400052: Flat_Head_Screw5 1
+    400054: Flat_Head_Screw6
+    400056: Flat_Head_Screw6 1
+    400058: Flat_Head_Screw7
+    400060: Flat_Head_Screw7 1
+    400062: Flat_Head_Screw8
+    400064: Flat_Head_Screw8 1
+    400066: Group1
+    400068: Group2
+    400070: Handle
+    400072: Handle1
+    400074: //RootNode
+    400076: mesh1
+    400078: mesh1 1
+    400080: mesh1 10
+    400082: mesh1 11
+    400084: mesh1 12
+    400086: mesh1 13
+    400088: mesh1 14
+    400090: mesh1 15
+    400092: mesh1 2
+    400094: mesh1 3
+    400096: mesh1 4
+    400098: mesh1 5
+    400100: mesh1 6
+    400102: mesh1 7
+    400104: mesh1 8
+    400106: mesh1 9
+    400108: mesh2
+    400110: mesh2 1
+    400112: mesh3
+    400114: mesh3 1
+    400116: mesh4
+    400118: mesh4 1
+    400120: mesh5
+    400122: mesh6
+    400124: mesh7
+    400126: mesh8
+    400128: Model
+    400130: Pole
+    400132: Pole 1
+    400134: Pole1
+    400136: Pole2
+    400138: Switchbase
+    400140: Switchbase 1
+    400142: Switchbase1
+    400144: Switchbase2
+    400146: Throw
+    400148: Throw 1
+    400150: Throw1
+    400152: Throw2
+    2300000: mesh1
+    2300002: mesh1 1
+    2300004: mesh1 10
+    2300006: mesh1 11
+    2300008: mesh1 12
+    2300010: mesh1 13
+    2300012: mesh1 14
+    2300014: mesh1 15
+    2300016: mesh1 2
+    2300018: mesh1 3
+    2300020: mesh1 4
+    2300022: mesh1 5
+    2300024: mesh1 6
+    2300026: mesh1 7
+    2300028: mesh1 8
+    2300030: mesh1 9
+    2300032: mesh2
+    2300034: mesh2 1
+    2300036: mesh3
+    2300038: mesh3 1
+    2300040: mesh4
+    2300042: mesh4 1
+    2300044: mesh5
+    2300046: mesh6
+    2300048: mesh7
+    2300050: mesh8
+    3300000: mesh1
+    3300002: mesh1 1
+    3300004: mesh1 10
+    3300006: mesh1 11
+    3300008: mesh1 12
+    3300010: mesh1 13
+    3300012: mesh1 14
+    3300014: mesh1 15
+    3300016: mesh1 2
+    3300018: mesh1 3
+    3300020: mesh1 4
+    3300022: mesh1 5
+    3300024: mesh1 6
+    3300026: mesh1 7
+    3300028: mesh1 8
+    3300030: mesh1 9
+    3300032: mesh2
+    3300034: mesh2 1
+    3300036: mesh3
+    3300038: mesh3 1
+    3300040: mesh4
+    3300042: mesh4 1
+    3300044: mesh5
+    3300046: mesh6
+    3300048: mesh7
+    3300050: mesh8
+    4300000: mesh1
+    4300002: mesh2
+    4300004: mesh3
+    4300006: mesh4
+    4300008: mesh5
+    4300010: mesh6
+    4300012: mesh7
+    4300014: mesh8
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

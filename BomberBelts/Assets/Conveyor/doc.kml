@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Folder>
+    <name>AutoSave_conveyor._12</name>
+    <description><![CDATA[Created with <a href="http://sketchup.google.com/">Google SketchUp 6.0.515</a>]]></description>
+    <DocumentSource>SketchUp</DocumentSource>
+<visibility>1</visibility>
+<LookAt>
+<heading>324.744</heading>
+<tilt>72.6982</tilt>
+<latitude>40.01697334882139</latitude>
+<longitude>-105.2829566102825</longitude>
+<range>6.519858708397549</range>
+<altitude>2.000039886651923</altitude>
+</LookAt>
+<Folder>
+<name>Tour</name>
+<Placemark>
+<name>Home</name>
+<visibility>1</visibility>
+<LookAt>
+<heading>328.083</heading>
+<tilt>74.7378</tilt>
+<latitude>40.01688138095534</latitude>
+<longitude>-105.2828335410371</longitude>
+<range>32.18697942429617</range>
+<altitude>8.678606946597895</altitude>
+</LookAt>
+</Placemark>
+</Folder>
+  <Placemark>
+    <name>Model</name>
+    <description><![CDATA[]]></description>
+    <Style id='default'>
+    </Style>
+    <Model>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <Location>
+            <longitude>-105.283000000000</longitude>
+            <latitude>40.017000000000</latitude>
+            <altitude>0.000000000000</altitude>
+        </Location>
+        <Orientation>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+        </Orientation>
+        <Scale>
+            <x>1.0</x>
+            <y>1.0</y>
+            <z>1.0</z>
+        </Scale>
+        <Link>
+            <href>models/AutoSave_conveyor._12.dae</href>
+        </Link>
+    </Model>
+  </Placemark></Folder>
+</kml>
