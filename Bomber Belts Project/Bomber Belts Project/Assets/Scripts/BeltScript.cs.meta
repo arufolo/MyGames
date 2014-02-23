@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d7cf9f27a47ea514a979ea4476229b68
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - offMat: {fileID: 2100000, guid: 35f1183d43230944ca4359d7cdb48fb4, type: 2}
+  - redMat: {fileID: 2100000, guid: 6822edfd6ee39a84898619f8e2b83048, type: 2}
+  - blueMat: {fileID: 2100000, guid: 572a459994ea77e4c98f821e86c129ee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

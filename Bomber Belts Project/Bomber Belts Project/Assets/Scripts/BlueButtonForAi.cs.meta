@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 105115359877a414c846270402b29d30
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - beltScript: {instanceID: 0}
+  - blueCharacter: {instanceID: 0}
+  - onMat: {fileID: 2100000, guid: 572a459994ea77e4c98f821e86c129ee, type: 2}
+  - offMat: {fileID: 2100000, guid: 35f1183d43230944ca4359d7cdb48fb4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

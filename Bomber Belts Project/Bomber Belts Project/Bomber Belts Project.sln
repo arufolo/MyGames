@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DDDC36C3-A929-E0EF-5C7B-56374F8087A6}") = "Bomber Belts Project", "Assembly-CSharp.csproj", "{ADCC8A3C-07A2-FCF2-30DE-DC13715885BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCC8A3C-07A2-FCF2-30DE-DC13715885BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCC8A3C-07A2-FCF2-30DE-DC13715885BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCC8A3C-07A2-FCF2-30DE-DC13715885BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCC8A3C-07A2-FCF2-30DE-DC13715885BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
