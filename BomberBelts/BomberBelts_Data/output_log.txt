@@ -1,21 +1,21 @@
 Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
-    Renderer: AMD Radeon HD 6670
-    Vendor:   ATI
-    VRAM:     1009 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3165]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     965 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\arufolo\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.063 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\j_ruf_000\Documents\GitHub\MyGames\BomberBelts\BomberBelts_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
