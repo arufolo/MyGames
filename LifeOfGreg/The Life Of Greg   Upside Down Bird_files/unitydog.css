@@ -1,0 +1,110 @@
+
+/*
+	
+	Feel free to change these styles to fit your site
+	
+*/
+
+
+DIV.unitydog
+{
+	background-color: black;
+	border: 5px solid black;
+	margin: 0 auto;
+	border-radius: 3px;
+	margin-bottom: 32px;
+	
+	/* The default width and height of the inline player.. change this to suit!*/
+	width: 960px;
+	height: 600px;
+}
+
+DIV.unitydog DIV.playbutton
+{
+	width: 100%;
+	height: 100%;
+	background: url('play.png') no-repeat center center;
+	cursor: pointer;
+	margin: 0;
+	padding: 0;
+}
+
+DIV.unitydog DIV.controls
+{
+	height: 20px;
+	position: relative;
+	top: 5px;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+
+DIV.unitydog.fullscreen
+{
+	background-color: black !important;
+	border: 0px !important;
+	margin: 0 !important;
+	border-radius: 0px !important;
+	position: fixed !important;
+	top: 0px !important;
+	left: 0px !important;
+	right: 0px !important;
+	bottom: 0px !important;
+	width: auto !important;
+	height: auto !important;
+	z-index: 99999 !important;
+}
+
+DIV.unitydog.fullscreen DIV.controls
+{
+	top: 0px !important;
+	padding: 1px !important;
+	text-align: center !important;
+}
+
+DIV.unitydog  DIV.player
+{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+DIV.unitydog.fullscreen  DIV.player
+{
+	height: calc( 100% - 20px );
+}
+
+/* iframes, wordpress and unitydog show above the webplayer. This sexy little hack prevents that. */
+BODY.unitydog_fullscreen iframe, BODY.unitydog_fullscreen #wpadminbar
+{
+	display: none !important;
+}
+
+/* With other unity players.. just move them miles off screen - because if we hide and show it, it'll reload.*/
+BODY.unitydog_fullscreen DIV.unitydog.standard
+{
+	position: fixed !important;
+	left: 10000px !important;
+}
+
+/* Hide the scrollbar when in fullscreen */
+BODY.unitydog_fullscreen
+{
+	overflow: hidden;
+}
+
+BODY.unitydog_fullscreen a.make_fullscreen
+{
+	display: none !important;
+}
+
+DIV.unitydog a.make_normal
+{
+	display: none;
+}
+
+BODY.unitydog_fullscreen DIV.unitydog a.make_normal
+{
+	display: inline !important;
+}
