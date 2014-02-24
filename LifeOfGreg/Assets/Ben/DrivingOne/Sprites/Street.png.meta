@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: bb446bef71115414b97f74dff74a9463
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Street_0
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 327
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 160
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 192
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 160
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 99
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 54
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Street_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 345
+        width: 259
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Street_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Street_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Street_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 351
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Street_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 544
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

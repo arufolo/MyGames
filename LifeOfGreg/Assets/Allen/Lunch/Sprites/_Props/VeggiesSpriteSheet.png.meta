@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: 2bb94d226d5a9eb4a81bce26089ae890
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: VeggiesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 19
+        width: 22
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 250
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 250
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 250
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 250
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 206
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 206
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 188
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 152
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 137
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 135
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 99
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: VeggiesSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

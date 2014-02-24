@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 9a4abe353a1a37e4f91b9b9de669140e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera
+    100002: field_goal
+    100004: field_goal 1
+    100006: field_goal1
+    100008: field_goal2
+    100010: goal
+    100012: goal 1
+    100014: goal1
+    100016: goal1 1
+    100018: mesh1
+    100020: mesh1 1
+    100022: mesh1 2
+    100024: mesh10
+    100026: mesh10 1
+    100028: mesh10 2
+    100030: mesh11
+    100032: mesh11 1
+    100034: mesh11 2
+    100036: mesh12
+    100038: mesh12 1
+    100040: mesh12 2
+    100042: mesh13
+    100044: mesh13 1
+    100046: mesh13 2
+    100048: mesh14
+    100050: mesh14 1
+    100052: mesh14 2
+    100054: mesh15
+    100056: mesh15 1
+    100058: mesh16
+    100060: mesh16 1
+    100062: mesh17
+    100064: mesh17 1
+    100066: mesh18
+    100068: mesh18 1
+    100070: mesh19
+    100072: mesh19 1
+    100074: mesh2
+    100076: mesh2 1
+    100078: mesh2 2
+    100080: mesh20
+    100082: mesh20 1
+    100084: mesh21
+    100086: mesh21 1
+    100088: mesh22
+    100090: mesh22 1
+    100092: mesh23
+    100094: mesh24
+    100096: mesh25
+    100098: mesh26
+    100100: mesh27
+    100102: mesh28
+    100104: mesh29
+    100106: mesh3
+    100108: mesh3 1
+    100110: mesh3 2
+    100112: mesh30
+    100114: mesh31
+    100116: mesh31 1
+    100118: mesh32
+    100120: mesh32 1
+    100122: mesh33
+    100124: mesh33 1
+    100126: mesh34
+    100128: mesh35
+    100130: mesh36
+    100132: mesh37
+    100134: mesh4
+    100136: mesh4 1
+    100138: mesh4 2
+    100140: mesh5
+    100142: mesh5 1
+    100144: mesh5 2
+    100146: mesh6
+    100148: mesh6 1
+    100150: mesh6 2
+    100152: mesh7
+    100154: mesh7 1
+    100156: mesh7 2
+    100158: mesh8
+    100160: mesh8 1
+    100162: mesh8 2
+    100164: mesh9
+    100166: mesh9 1
+    100168: mesh9 2
+    100170: MetLife_2
+    100172: MetLife_2 1
+    100174: MetLife_2_1
+    100176: MetLife_2_1_2
+    100178: MetLife_2_2
+    100180: MetLife_2_3
+    100182: METLIFE_STADIUM
+    100184: METLIFE_STADIUM 1
+    100186: METLIFE_STADIUM 2
+    100188: METLIFE_STADIUM1
+    100190: METLIFE_STADIUM2
+    100192: METLIFE_STADIUM3
+    100194: Model
+    100196: //RootNode
+    100198: pad
+    100200: pad 1
+    100202: pad1
+    100204: pad1 1
+    100206: post_base
+    100208: post_base 1
+    100210: post_base1
+    100212: post_base1 1
+    400000: Camera
+    400002: field_goal
+    400004: field_goal 1
+    400006: field_goal1
+    400008: field_goal2
+    400010: goal
+    400012: goal 1
+    400014: goal1
+    400016: goal1 1
+    400018: mesh1
+    400020: mesh1 1
+    400022: mesh1 2
+    400024: mesh10
+    400026: mesh10 1
+    400028: mesh10 2
+    400030: mesh11
+    400032: mesh11 1
+    400034: mesh11 2
+    400036: mesh12
+    400038: mesh12 1
+    400040: mesh12 2
+    400042: mesh13
+    400044: mesh13 1
+    400046: mesh13 2
+    400048: mesh14
+    400050: mesh14 1
+    400052: mesh14 2
+    400054: mesh15
+    400056: mesh15 1
+    400058: mesh16
+    400060: mesh16 1
+    400062: mesh17
+    400064: mesh17 1
+    400066: mesh18
+    400068: mesh18 1
+    400070: mesh19
+    400072: mesh19 1
+    400074: mesh2
+    400076: mesh2 1
+    400078: mesh2 2
+    400080: mesh20
+    400082: mesh20 1
+    400084: mesh21
+    400086: mesh21 1
+    400088: mesh22
+    400090: mesh22 1
+    400092: mesh23
+    400094: mesh24
+    400096: mesh25
+    400098: mesh26
+    400100: mesh27
+    400102: mesh28
+    400104: mesh29
+    400106: mesh3
+    400108: mesh3 1
+    400110: mesh3 2
+    400112: mesh30
+    400114: mesh31
+    400116: mesh31 1
+    400118: mesh32
+    400120: mesh32 1
+    400122: mesh33
+    400124: mesh33 1
+    400126: mesh34
+    400128: mesh35
+    400130: mesh36
+    400132: mesh37
+    400134: mesh4
+    400136: mesh4 1
+    400138: mesh4 2
+    400140: mesh5
+    400142: mesh5 1
+    400144: mesh5 2
+    400146: mesh6
+    400148: mesh6 1
+    400150: mesh6 2
+    400152: mesh7
+    400154: mesh7 1
+    400156: mesh7 2
+    400158: mesh8
+    400160: mesh8 1
+    400162: mesh8 2
+    400164: mesh9
+    400166: mesh9 1
+    400168: mesh9 2
+    400170: MetLife_2
+    400172: MetLife_2 1
+    400174: MetLife_2_1
+    400176: MetLife_2_1_2
+    400178: MetLife_2_2
+    400180: MetLife_2_3
+    400182: METLIFE_STADIUM
+    400184: METLIFE_STADIUM 1
+    400186: METLIFE_STADIUM 2
+    400188: METLIFE_STADIUM1
+    400190: METLIFE_STADIUM2
+    400192: METLIFE_STADIUM3
+    400194: Model
+    400196: //RootNode
+    400198: pad
+    400200: pad 1
+    400202: pad1
+    400204: pad1 1
+    400206: post_base
+    400208: post_base 1
+    400210: post_base1
+    400212: post_base1 1
+    2300000: mesh1
+    2300002: mesh1 1
+    2300004: mesh1 2
+    2300006: mesh10
+    2300008: mesh10 1
+    2300010: mesh10 2
+    2300012: mesh11
+    2300014: mesh11 1
+    2300016: mesh11 2
+    2300018: mesh12
+    2300020: mesh12 1
+    2300022: mesh12 2
+    2300024: mesh13
+    2300026: mesh13 1
+    2300028: mesh13 2
+    2300030: mesh14
+    2300032: mesh14 1
+    2300034: mesh14 2
+    2300036: mesh15
+    2300038: mesh15 1
+    2300040: mesh16
+    2300042: mesh16 1
+    2300044: mesh17
+    2300046: mesh17 1
+    2300048: mesh18
+    2300050: mesh18 1
+    2300052: mesh19
+    2300054: mesh19 1
+    2300056: mesh2
+    2300058: mesh2 1
+    2300060: mesh2 2
+    2300062: mesh20
+    2300064: mesh20 1
+    2300066: mesh21
+    2300068: mesh21 1
+    2300070: mesh22
+    2300072: mesh22 1
+    2300074: mesh23
+    2300076: mesh24
+    2300078: mesh25
+    2300080: mesh26
+    2300082: mesh27
+    2300084: mesh28
+    2300086: mesh29
+    2300088: mesh3
+    2300090: mesh3 1
+    2300092: mesh3 2
+    2300094: mesh30
+    2300096: mesh31
+    2300098: mesh31 1
+    2300100: mesh32
+    2300102: mesh32 1
+    2300104: mesh33
+    2300106: mesh33 1
+    2300108: mesh34
+    2300110: mesh35
+    2300112: mesh36
+    2300114: mesh37
+    2300116: mesh4
+    2300118: mesh4 1
+    2300120: mesh4 2
+    2300122: mesh5
+    2300124: mesh5 1
+    2300126: mesh5 2
+    2300128: mesh6
+    2300130: mesh6 1
+    2300132: mesh6 2
+    2300134: mesh7
+    2300136: mesh7 1
+    2300138: mesh7 2
+    2300140: mesh8
+    2300142: mesh8 1
+    2300144: mesh8 2
+    2300146: mesh9
+    2300148: mesh9 1
+    2300150: mesh9 2
+    3300000: mesh1
+    3300002: mesh1 1
+    3300004: mesh1 2
+    3300006: mesh10
+    3300008: mesh10 1
+    3300010: mesh10 2
+    3300012: mesh11
+    3300014: mesh11 1
+    3300016: mesh11 2
+    3300018: mesh12
+    3300020: mesh12 1
+    3300022: mesh12 2
+    3300024: mesh13
+    3300026: mesh13 1
+    3300028: mesh13 2
+    3300030: mesh14
+    3300032: mesh14 1
+    3300034: mesh14 2
+    3300036: mesh15
+    3300038: mesh15 1
+    3300040: mesh16
+    3300042: mesh16 1
+    3300044: mesh17
+    3300046: mesh17 1
+    3300048: mesh18
+    3300050: mesh18 1
+    3300052: mesh19
+    3300054: mesh19 1
+    3300056: mesh2
+    3300058: mesh2 1
+    3300060: mesh2 2
+    3300062: mesh20
+    3300064: mesh20 1
+    3300066: mesh21
+    3300068: mesh21 1
+    3300070: mesh22
+    3300072: mesh22 1
+    3300074: mesh23
+    3300076: mesh24
+    3300078: mesh25
+    3300080: mesh26
+    3300082: mesh27
+    3300084: mesh28
+    3300086: mesh29
+    3300088: mesh3
+    3300090: mesh3 1
+    3300092: mesh3 2
+    3300094: mesh30
+    3300096: mesh31
+    3300098: mesh31 1
+    3300100: mesh32
+    3300102: mesh32 1
+    3300104: mesh33
+    3300106: mesh33 1
+    3300108: mesh34
+    3300110: mesh35
+    3300112: mesh36
+    3300114: mesh37
+    3300116: mesh4
+    3300118: mesh4 1
+    3300120: mesh4 2
+    3300122: mesh5
+    3300124: mesh5 1
+    3300126: mesh5 2
+    3300128: mesh6
+    3300130: mesh6 1
+    3300132: mesh6 2
+    3300134: mesh7
+    3300136: mesh7 1
+    3300138: mesh7 2
+    3300140: mesh8
+    3300142: mesh8 1
+    3300144: mesh8 2
+    3300146: mesh9
+    3300148: mesh9 1
+    3300150: mesh9 2
+    4300000: mesh1
+    4300002: mesh2
+    4300004: mesh3
+    4300006: mesh4
+    4300008: mesh5
+    4300010: mesh6
+    4300012: mesh7
+    4300014: mesh8
+    4300016: mesh9
+    4300018: mesh10
+    4300020: mesh11
+    4300022: mesh12
+    4300024: mesh13
+    4300026: mesh14
+    4300028: mesh15
+    4300030: mesh16
+    4300032: mesh17
+    4300034: mesh18
+    4300036: mesh19
+    4300038: mesh20
+    4300040: mesh21
+    4300042: mesh22
+    4300044: mesh23
+    4300046: mesh24
+    4300048: mesh25
+    4300050: mesh26
+    4300052: mesh27
+    4300054: mesh28
+    4300056: mesh29
+    4300058: mesh30
+    4300060: mesh31
+    4300062: mesh32
+    4300064: mesh33
+    4300066: mesh34
+    4300068: mesh35
+    4300070: mesh36
+    4300072: mesh37
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 70735158366873545ba7661e699ccce3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Spartans_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 265
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 263
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 261
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 263
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 235
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 194
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 194
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 126
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 126
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 125
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 123
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 97
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 55
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 55
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 55
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 55
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spartans_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 54
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
